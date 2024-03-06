@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\bin\Debug\net8.0\topicos.exe
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\bin\Debug\net8.0\topicos.deps.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\bin\Debug\net8.0\topicos.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\bin\Debug\net8.0\topicos.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\bin\Debug\net8.0\topicos.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\refint\topicos.dll
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.pdb
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\topicos.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Área de Trabalho\topicos\obj\Debug\net8.0\ref\topicos.dll
